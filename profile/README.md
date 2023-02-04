@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](../assets/onepanel_landing_screen.png)
+
 # 🙋‍♀️ Intro
 
 OnePanelOrg is the Organization behind OnePanel. Here we well host all the repo that make OnePanel work
